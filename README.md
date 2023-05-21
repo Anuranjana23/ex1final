@@ -123,13 +123,25 @@ Y= A⊕B
 5.	For different input combinations, generate the timing diagram.
 
 ## Program:
-
+module exp1(a,b,andgate,orgate,norgate,notgate,xorgate,xnorgate,nandgate);
+input a,b;
+output andgate,orgate,norgate,notgate,xorgate,nandgate,xnorgate;
+and (andgate,a,b);
+or (orgate,a,b);
+nor (norgate,a,b);
+not (notgate,a);
+xor (xorgate,a,b);
+nand (nandgate,a,b);
+xnor (xnorgate,a,b);
+endmodule
 
 ## RTL Schematic:
+![Screenshot (36)](https://github.com/Anuranjana23/ex1final/assets/134050204/418602b5-0f0a-4f86-b417-0e8dccd3b6a8)
 
 
 ## Timing Diagram:
 
+![Screenshot (37)](https://github.com/Anuranjana23/ex1final/assets/134050204/96e89537-dadc-451a-8358-ee5acdd36629)
 
 
 
