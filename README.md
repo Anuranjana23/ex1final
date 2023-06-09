@@ -138,12 +138,13 @@ endmodule
 ~~~
 
 ## RTL Schematic:
-![Screenshot (36)](https://github.com/Anuranjana23/ex1final/assets/134050204/418602b5-0f0a-4f86-b417-0e8dccd3b6a8)
+![RTL](https://github.com/Anuranjana23/ex1final/assets/134050204/c5a50b7d-eda9-4939-943a-94cba287e912)
+
 
 
 ## Timing Diagram:
+![Timing diagram](https://github.com/Anuranjana23/ex1final/assets/134050204/36459a87-7b6b-4c09-999c-e536e4f2b706)
 
-![Screenshot (37)](https://github.com/Anuranjana23/ex1final/assets/134050204/96e89537-dadc-451a-8358-ee5acdd36629)
 
 
 
